@@ -1,1 +1,7 @@
 # apt packages to install should be listed one per line
+ffmpeg
+libsm6
+libxext6
+poppler-utils
+tesseract-ocr
+python3-pil

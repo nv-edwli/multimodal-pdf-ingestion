@@ -93,8 +93,8 @@ execution:
       requested: 0
     sharedMemoryMB: 0
   secrets:
-  - variable: OPENAI_API_TOKEN
-    description: OpenAI API Token
+  - variable: OPENAI_API_KEY
+    description: OpenAI API Key
   mounts:
   - type: project
     target: /project/
