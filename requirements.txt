@@ -1,1 +1,13 @@
 jupyterlab>3.0
+llama-index-llms-openai
+llama-index-multi-modal-llms-openai
+llama-index-vector-stores-qdrant
+llama-index
+qdrant_client
+pyMuPDF
+tools
+frontend
+easyocr
+matplotlib
+transformers
+llama-index-embeddings-clip
